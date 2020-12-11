@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1604788158 source:c:\users\33782\onedrive\bureau\projet\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<math.h>
+
+1604495083 c:\users\33782\onedrive\bureau\projet\huffman.h
+	<math.h>
+
+1604766794 source:c:\users\33782\onedrive\bureau\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<math.h>
+
+1604767806 source:c:\users\33782\onedrive\bureau\projet\projet.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<math.h>
+
+1607627210 source:c:\users\33782\onedrive\bureau\huffman projet\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+
+1607630873 c:\users\33782\onedrive\bureau\huffman projet\projet\huffman.h
+	<stdio.h>
+	<stdlib.h>
+
+1607630828 source:c:\users\33782\onedrive\bureau\huffman projet\projet\projet.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<math.h>
+
+1607629246 source:c:\users\33782\onedrive\bureau\huffman projet\projet\huffman.c
+	<stdio.h>
+	<stdlib.h>
+	"huffman.h"
+	<math.h>
+
